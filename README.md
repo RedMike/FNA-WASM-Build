@@ -2,6 +2,8 @@
 
 ![WASM Build (FNA)](https://github.com/clarvalon/FNA-WASM-Build/workflows/WASM%20Build%20(FNA)/badge.svg)
 
+IMPORTANT: This repo is currently set up to build only FNA 25.01 as that is the last SDL2-using version of FNA. The workflow needs fixing to work with SDL3, which I will try to get to.
+
 This repo is for automating the build of WebAssembly (WASM) native libraries for [FNA](https://fna-xna.github.io/), including:
 
 * [FNA3D.a](https://github.com/FNA-XNA/FNA3D) - 3D graphics library for FNA.
