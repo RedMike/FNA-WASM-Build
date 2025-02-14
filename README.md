@@ -1,6 +1,6 @@
 # FNA-WASM-Build
 
-![WASM Build (FNA)](https://github.com/clarvalon/FNA-WASM-Build/workflows/WASM%20Build%20(FNA)/badge.svg)
+![WASM Build (FNA)](https://github.com/RedMike/FNA-WASM-Build/workflows/WASM%20Build%20(FNA)/badge.svg)
 
 IMPORTANT: This repo is currently set up to build only FNA 25.01 as that is the last SDL2-using version of FNA. The workflow needs fixing to work with SDL3, which I will try to get to.
 
